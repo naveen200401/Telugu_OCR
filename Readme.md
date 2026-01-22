@@ -4,13 +4,6 @@
 
 Telugu OCR is a specialized character recognition system that accurately extracts Telugu text from images. Built with computer vision and deep learning, it handles the complexity of Telugu script including characters, vowel marks, and ligatures with high accuracy.
 
-## 🌐 Live Demo
-
-### Try it now without installation:
-
-👉 **[https://telugu-ocr-demo.onrender.com](https://github.com/naveen200401/Telugu_OCR)**
-
-> No download required! Upload your Telugu text images and get instant recognition results.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
